@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://H:/学习相关/apache-tomcat-9.0.20-windows-x64/apache-tomcat-9.0.20/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
